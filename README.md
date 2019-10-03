@@ -1,2 +1,2 @@
-# ET-Extensions
+# ET助手
 ET框架相关的拓展工具

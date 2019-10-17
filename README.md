@@ -9,6 +9,7 @@
 
 | 版本 |                             功能                             |
 | :--: | :----------------------------------------------------------: |
+| 5.07 | [新增服务器普通、实体、AMRpcHandler脚本生成工具](https://github.com/swicksu/ET-Assistant/releases/tag/v5.07) |
 | 5.06 | [AEvent脚本生成](https://github.com/swicksu/ET-Assistant/releases/tag/v5.06) |
 | 5.05 | [没有加上GameEnter和UnitMgr](https://github.com/swicksu/ET-Assistant/releases/tag/v5.05) |
 | 5.04 | [新增对象池，Model与Hotfix的事件传输](https://github.com/swicksu/ET-Assistant/releases/tag/v5.04) |

@@ -9,6 +9,7 @@
 
 | 版本 |                             功能                             |
 | :--: | :----------------------------------------------------------: |
+| 6.01 | [更新ET6.0Beta版插件](https://github.com/swicksu/ET-Assistant/releases/tag/v6.01) |
 | 5.08 | [AMHandler代码生成](https://github.com/swicksu/ET-Assistant/releases/tag/v5.08) |
 | 5.07 | [新增服务器普通、实体、AMRpcHandler脚本生成工具](https://github.com/swicksu/ET-Assistant/releases/tag/v5.07) |
 | 5.06 | [AEvent脚本生成](https://github.com/swicksu/ET-Assistant/releases/tag/v5.06) |

@@ -4,7 +4,7 @@
 
 - ET框架相关的拓展工具 
 - 请直接下载Realse的包体，导到Unity中
-- [入门视频](https://space.bilibili.com/72371081)
+- [介绍视频](https://www.bilibili.com/video/av74764837)
 
 ## 版本
 

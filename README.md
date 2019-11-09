@@ -10,7 +10,7 @@
 
 | 版本 |                             功能                             |
 | :--: | :----------------------------------------------------------: |
-| 6.01 | [更新ET6.0Beta版插件](https://github.com/swicksu/ET-Assistant/releases/tag/v6.01) |
+| 6.1 | [更新ET6.0Beta版插件](https://github.com/swicksu/ET-Assistant/releases/tag/v6.01) |
 | 5.10 | [增加生成Unit实体代码的选项，并修改部分API成静态方法](https://github.com/swicksu/ET-Assistant/releases/tag/v5.10) |
 | 5.9  | [AEvent的function可空](https://github.com/swicksu/ET-Assistant/releases/tag/v5.9) |
 | 5.8 | [AMHandler代码生成](https://github.com/swicksu/ET-Assistant/releases/tag/v5.08) |

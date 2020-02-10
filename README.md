@@ -10,6 +10,7 @@
 
 | 版本 |                             功能                             |
 | :--: | :----------------------------------------------------------: |
+| 6.02  | [更新ET6.02Beta版插件](https://github.com/swicksu/ET-Assistant/releases/tag/v6.02) |
 | 6.1  | [更新ET6.0Beta版插件](https://github.com/swicksu/ET-Assistant/releases/tag/v6.01) |
 | 5.11 | [新增ReactiveProperty](https://github.com/swicksu/ET-Assistant/releases/tag/v5.11) |
 | 5.10 | [增加生成Unit实体代码的选项，并修改部分API成静态方法](https://github.com/swicksu/ET-Assistant/releases/tag/v5.10) |
